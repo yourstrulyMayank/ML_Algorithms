@@ -1,4 +1,4 @@
 Project1: ML Algorithms Explained Graphically
 Scope:
-> Linear Regression
-> Logistic Regression
+1) Linear Regression
+2) Logistic Regression
